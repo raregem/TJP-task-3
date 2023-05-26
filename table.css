@@ -1,0 +1,32 @@
+* {
+  font-family: "Barlow", sans-serif;
+  text-align: center;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin: auto;
+  padding: 10px 30px;
+}
+
+th {
+  font-weight: bold;
+}
+
+td {
+  font-weight: lighter;
+}
+
+.btn-1 {
+  margin-top: 15px;
+  height: 40px;
+  width: 120px;
+  background-color: blue;
+  color: white;
+  border-radius: 50px;
+  border-style: none;
+  cursor: pointer;
+}

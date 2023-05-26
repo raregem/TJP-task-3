@@ -1,0 +1,61 @@
+* {
+  font-family: "Merienda", cursive;
+  text-align: center;
+}
+
+ol {
+  max-width: 500px;
+  margin: auto;
+}
+
+.a {
+  line-height: 8px;
+  margin-bottom: 30px;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+.b {
+  line-height: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.c {
+  line-height: 8px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+}
+
+.homeline {
+  width: 500px;
+}
+
+.btn-1 {
+  height: 40px;
+  width: 120px;
+  background-color: blue;
+  color: white;
+  border-radius: 50px;
+  border-style: none;
+  cursor: pointer;
+}
+
+.btn-2 {
+  height: 40px;
+  width: 120px;
+  background-color: blue;
+  color: white;
+  border-radius: 50px;
+  border-style: none;
+  cursor: pointer;
+}
